@@ -1,0 +1,14 @@
+.Forms {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 55%;
+  padding: 65px;
+  flex-wrap: wrap;
+  height: 100vh;
+  box-sizing: border-box;
+}
+.Forms-group h1 {
+  color: #511c0f;
+  font-size: 1.5em;
+}
